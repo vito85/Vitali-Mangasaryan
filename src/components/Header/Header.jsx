@@ -29,7 +29,7 @@ const Header = () => {
   };
   return (
     <header>
-      <Link to="/portfoilo" className="logo">
+      <Link to="/Vitali-Mangasaryan" className="logo">
         <img src={logo} alt="" />
       </Link>
 
@@ -48,21 +48,21 @@ const Header = () => {
       <nav className={`${burgerMenu && "burgerActive"}`}>
         <NavLink
           className="navItem"
-          to="/portfoilo/about"
+          to="/Vitali-Mangasaryan/about"
           onClick={() => setBurgerMenu(false)}
         >
           {header?.resume}
         </NavLink>
         <NavLink
           className="navItem"
-          to="/portfoilo/skills"
+          to="/Vitali-Mangasaryan/skills"
           onClick={() => setBurgerMenu(false)}
         >
           {header?.skills}
         </NavLink>
         <NavLink
           className="navItem"
-          to="/portfoilo/contact"
+          to="/Vitali-Mangasaryan/contact"
           onClick={() => setBurgerMenu(false)}
         >
           {header?.contact}

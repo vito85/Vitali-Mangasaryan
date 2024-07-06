@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Vitali-Mangasaryan/static/css/main.8ef16ea6.css",
-    "main.js": "/Vitali-Mangasaryan/static/js/main.40f28929.js",
+    "main.js": "/Vitali-Mangasaryan/static/js/main.e2bcd032.js",
     "static/media/Arman Babujyan.pdf": "/Vitali-Mangasaryan/static/media/Arman Babujyan.dd5997cd7bcfffa97be5.pdf",
     "static/media/vito.jpg": "/Vitali-Mangasaryan/static/media/vito.0702cefa8d2a70f1312a.jpg",
     "static/media/b.png": "/Vitali-Mangasaryan/static/media/b.8d5832aff409ad4d2c8b.png",
@@ -14,10 +14,10 @@
     "static/media/css.svg": "/Vitali-Mangasaryan/static/media/css.cce1e71a67427e01caedeed1b01d4efa.svg",
     "static/media/html.svg": "/Vitali-Mangasaryan/static/media/html.0c8899975fbb5345002df9b408db0cc0.svg",
     "main.8ef16ea6.css.map": "/Vitali-Mangasaryan/static/css/main.8ef16ea6.css.map",
-    "main.40f28929.js.map": "/Vitali-Mangasaryan/static/js/main.40f28929.js.map"
+    "main.e2bcd032.js.map": "/Vitali-Mangasaryan/static/js/main.e2bcd032.js.map"
   },
   "entrypoints": [
     "static/css/main.8ef16ea6.css",
-    "static/js/main.40f28929.js"
+    "static/js/main.e2bcd032.js"
   ]
 }

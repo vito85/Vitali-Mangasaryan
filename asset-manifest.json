@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Vitali-Mangasaryan/static/css/main.8ef16ea6.css",
+    "main.js": "/Vitali-Mangasaryan/static/js/main.40f28929.js",
+    "static/media/Arman Babujyan.pdf": "/Vitali-Mangasaryan/static/media/Arman Babujyan.dd5997cd7bcfffa97be5.pdf",
+    "static/media/vito.jpg": "/Vitali-Mangasaryan/static/media/vito.0702cefa8d2a70f1312a.jpg",
+    "static/media/b.png": "/Vitali-Mangasaryan/static/media/b.8d5832aff409ad4d2c8b.png",
+    "static/media/react.svg": "/Vitali-Mangasaryan/static/media/react.b4aadc0713bb11142756748e605f70bd.svg",
+    "static/media/github.svg": "/Vitali-Mangasaryan/static/media/github.0bb80b8b9b816978d9b33261bd3b3c0b.svg",
+    "static/media/redux.svg": "/Vitali-Mangasaryan/static/media/redux.59f428ebf1c8b3a3fcec9ee28b57c9da.svg",
+    "static/media/git.svg": "/Vitali-Mangasaryan/static/media/git.03c2b63babaf05a6bcc1004a283802ee.svg",
+    "index.html": "/Vitali-Mangasaryan/index.html",
+    "static/media/javascript.svg": "/Vitali-Mangasaryan/static/media/javascript.7bb08cdbe94fc2dfc1b51be8c2dae551.svg",
+    "static/media/css.svg": "/Vitali-Mangasaryan/static/media/css.cce1e71a67427e01caedeed1b01d4efa.svg",
+    "static/media/html.svg": "/Vitali-Mangasaryan/static/media/html.0c8899975fbb5345002df9b408db0cc0.svg",
+    "main.8ef16ea6.css.map": "/Vitali-Mangasaryan/static/css/main.8ef16ea6.css.map",
+    "main.40f28929.js.map": "/Vitali-Mangasaryan/static/js/main.40f28929.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ef16ea6.css",
+    "static/js/main.40f28929.js"
+  ]
+}
